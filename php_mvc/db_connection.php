@@ -8,6 +8,9 @@ function error_login($log){
 	echo 'Log:'.$log.'<br />';
 }
 
+
+//666
+
 try{
 	$config_set['db_connection']['dsn'] = 'mysql:dbname=school;host=127.0.0.1;charset=utf8';
 	$config_set['db_connection']['user_name'] = 'Nicky';
