@@ -2,7 +2,7 @@
 require("db_connection.php");
 require("model/model.php");
 if(isset($_GET['action'])){
-
+	///mail
 	$model = new model($dbh);
 
 	switch ($_GET['action']) {
