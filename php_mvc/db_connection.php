@@ -1,4 +1,5 @@
 <?php
+//安安hi
 function error_login($log){
 	echo 'Log:'.$log.'<br />';
 }
