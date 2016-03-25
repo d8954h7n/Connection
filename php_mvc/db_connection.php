@@ -1,4 +1,5 @@
 <?php
+//資料庫連線
 function error_login($log){
 	echo 'Log:'.$log.'<br />';
 }
