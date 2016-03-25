@@ -1,5 +1,9 @@
 <?php
+<<<<<<< HEAD
 //資料庫連線
+=======
+//安安hi
+>>>>>>> master
 function error_login($log){
 	echo 'Log:'.$log.'<br />';
 }
