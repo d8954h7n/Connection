@@ -2,7 +2,7 @@
 <<<<<<< HEAD
 //資料庫連線
 =======
-//安安hi
+//安安hi其
 >>>>>>> master
 function error_login($log){
 	echo 'Log:'.$log.'<br />';
