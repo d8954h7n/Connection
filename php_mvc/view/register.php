@@ -29,7 +29,7 @@
 		E-mail：<input type="text" class="input" name="email" id="email"><br/><br/>
 		密　碼：<input type="password" class="input" name="psw" id="pass"><br /> <br />
 		<button>註冊</button>
-		<a href="?action=login">回登入頁</a>&nbsp;&nbsp;
+		<a href="?action=login">回登入頁</a>&nbsp;&nbsp;<br /><br />
 		<a href="?action=forgetPsw">忘記密碼?</a>
 	</form>
 </body>
