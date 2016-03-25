@@ -2,7 +2,7 @@
 require("db_connection.php");
 require("model/model.php");
 if(isset($_GET['action'])){
-
+// 測試push
 	$model = new model($dbh);
 
 	function getinfo() {
